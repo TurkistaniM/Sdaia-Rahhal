@@ -1,0 +1,8 @@
+{
+  "name": "رحّال | Rahal - بوابة التاريخ والتراث السعودي",
+  "description": "منصة تفاعلية لاستكشاف تاريخ وثقافة وتراث ومأكولات ومعالم مناطق المملكة العربية السعودية الـ 13 عبر خريطة تفاعلية ومساعد ذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
